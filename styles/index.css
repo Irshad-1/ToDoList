@@ -1,0 +1,29 @@
+#display{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    width: 30%;
+    margin: auto;
+}
+#display button{
+    margin: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+}
+form input,form label{
+    font-size: 35px;
+    margin: 15px;
+}
+#status{
+    width: 20px;
+    height: 20px;
+}
+h1{
+    text-align: center;
+}
